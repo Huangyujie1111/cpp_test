@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\C\u002B\u002B_test\\07 \u6307\u9488\\07 \u6307\u9488\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52E11D66-301F-46FA-AFE8-1DC442C9D6A1}|07 \u6307\u9488.vcxproj|D:\\Desktop\\C\u002B\u002B_test\\07 \u6307\u9488\\07 \u6307\u9488\\08 \u6307\u9488\u3001\u6570\u7EC4\u3001\u51FD\u6570\u6848\u4F8B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52E11D66-301F-46FA-AFE8-1DC442C9D6A1}|07 \u6307\u9488.vcxproj|solutionrelative:08 \u6307\u9488\u3001\u6570\u7EC4\u3001\u51FD\u6570\u6848\u4F8B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E11D66-301F-46FA-AFE8-1DC442C9D6A1}|07 \u6307\u9488.vcxproj|D:\\Desktop\\C\u002B\u002B_test\\07 \u6307\u9488\\07 \u6307\u9488\\06 \u6307\u9488\u548C\u6570\u7EC4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52E11D66-301F-46FA-AFE8-1DC442C9D6A1}|07 \u6307\u9488.vcxproj|solutionrelative:06 \u6307\u9488\u548C\u6570\u7EC4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E11D66-301F-46FA-AFE8-1DC442C9D6A1}|07 \u6307\u9488.vcxproj|D:\\Desktop\\C\u002B\u002B_test\\07 \u6307\u9488\\07 \u6307\u9488\\07 \u6307\u9488\u548C\u51FD\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52E11D66-301F-46FA-AFE8-1DC442C9D6A1}|07 \u6307\u9488.vcxproj|solutionrelative:07 \u6307\u9488\u548C\u51FD\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "08 \u6307\u9488\u3001\u6570\u7EC4\u3001\u51FD\u6570\u6848\u4F8B.cpp",
+              "DocumentMoniker": "D:\\Desktop\\C\u002B\u002B_test\\07 \u6307\u9488\\07 \u6307\u9488\\08 \u6307\u9488\u3001\u6570\u7EC4\u3001\u51FD\u6570\u6848\u4F8B.cpp",
+              "RelativeDocumentMoniker": "08 \u6307\u9488\u3001\u6570\u7EC4\u3001\u51FD\u6570\u6848\u4F8B.cpp",
+              "ToolTip": "D:\\Desktop\\C\u002B\u002B_test\\07 \u6307\u9488\\07 \u6307\u9488\\08 \u6307\u9488\u3001\u6570\u7EC4\u3001\u51FD\u6570\u6848\u4F8B.cpp",
+              "RelativeToolTip": "08 \u6307\u9488\u3001\u6570\u7EC4\u3001\u51FD\u6570\u6848\u4F8B.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-28T06:07:30.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "06 \u6307\u9488\u548C\u6570\u7EC4.cpp",
+              "DocumentMoniker": "D:\\Desktop\\C\u002B\u002B_test\\07 \u6307\u9488\\07 \u6307\u9488\\06 \u6307\u9488\u548C\u6570\u7EC4.cpp",
+              "RelativeDocumentMoniker": "06 \u6307\u9488\u548C\u6570\u7EC4.cpp",
+              "ToolTip": "D:\\Desktop\\C\u002B\u002B_test\\07 \u6307\u9488\\07 \u6307\u9488\\06 \u6307\u9488\u548C\u6570\u7EC4.cpp",
+              "RelativeToolTip": "06 \u6307\u9488\u548C\u6570\u7EC4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-28T03:22:14.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "07 \u6307\u9488\u548C\u51FD\u6570.cpp",
+              "DocumentMoniker": "D:\\Desktop\\C\u002B\u002B_test\\07 \u6307\u9488\\07 \u6307\u9488\\07 \u6307\u9488\u548C\u51FD\u6570.cpp",
+              "RelativeDocumentMoniker": "07 \u6307\u9488\u548C\u51FD\u6570.cpp",
+              "ToolTip": "D:\\Desktop\\C\u002B\u002B_test\\07 \u6307\u9488\\07 \u6307\u9488\\07 \u6307\u9488\u548C\u51FD\u6570.cpp",
+              "RelativeToolTip": "07 \u6307\u9488\u548C\u51FD\u6570.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-28T03:34:27.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

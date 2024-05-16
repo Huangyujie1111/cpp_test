@@ -1,0 +1,7 @@
+﻿  通讯录管理系统.cpp
+D:\Desktop\C++_test\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(36,4): error C2660: “add_people”: 函数不接受 1 个参数
+  D:\Desktop\C++_test\通讯录管理系统\通讯录管理系统\txl_system.h(10,6):
+  参见“add_people”的声明
+  D:\Desktop\C++_test\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(36,4):
+  尝试匹配参数列表“(txl *)”时
+  

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\C\u002B\u002B_test\\01 C\u002B\u002B\u4E66\u5199helloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{483C4EAF-5423-4615-84EB-6C7A14A2CA52}|01 C\u002B\u002B\u4E66\u5199helloWorld\\01 C\u002B\u002B\u4E66\u5199helloWorld.vcxproj|D:\\Desktop\\C\u002B\u002B_test\\01 C\u002B\u002B\u4E66\u5199helloWorld\\01 C\u002B\u002B\u4E66\u5199helloWorld\\05 \u5173\u952E\u5B57.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{483C4EAF-5423-4615-84EB-6C7A14A2CA52}|01 C\u002B\u002B\u4E66\u5199helloWorld\\01 C\u002B\u002B\u4E66\u5199helloWorld.vcxproj|solutionrelative:01 C\u002B\u002B\u4E66\u5199helloWorld\\05 \u5173\u952E\u5B57.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483C4EAF-5423-4615-84EB-6C7A14A2CA52}|01 C\u002B\u002B\u4E66\u5199helloWorld\\01 C\u002B\u002B\u4E66\u5199helloWorld.vcxproj|D:\\Desktop\\C\u002B\u002B_test\\01 C\u002B\u002B\u4E66\u5199helloWorld\\01 C\u002B\u002B\u4E66\u5199helloWorld\\04 \u5E38\u91CF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{483C4EAF-5423-4615-84EB-6C7A14A2CA52}|01 C\u002B\u002B\u4E66\u5199helloWorld\\01 C\u002B\u002B\u4E66\u5199helloWorld.vcxproj|solutionrelative:01 C\u002B\u002B\u4E66\u5199helloWorld\\04 \u5E38\u91CF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "05 \u5173\u952E\u5B57.cpp",
+              "DocumentMoniker": "D:\\Desktop\\C\u002B\u002B_test\\01 C\u002B\u002B\u4E66\u5199helloWorld\\01 C\u002B\u002B\u4E66\u5199helloWorld\\05 \u5173\u952E\u5B57.cpp",
+              "RelativeDocumentMoniker": "01 C\u002B\u002B\u4E66\u5199helloWorld\\05 \u5173\u952E\u5B57.cpp",
+              "ToolTip": "D:\\Desktop\\C\u002B\u002B_test\\01 C\u002B\u002B\u4E66\u5199helloWorld\\01 C\u002B\u002B\u4E66\u5199helloWorld\\05 \u5173\u952E\u5B57.cpp",
+              "RelativeToolTip": "01 C\u002B\u002B\u4E66\u5199helloWorld\\05 \u5173\u952E\u5B57.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T02:18:05.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "04 \u5E38\u91CF.cpp",
+              "DocumentMoniker": "D:\\Desktop\\C\u002B\u002B_test\\01 C\u002B\u002B\u4E66\u5199helloWorld\\01 C\u002B\u002B\u4E66\u5199helloWorld\\04 \u5E38\u91CF.cpp",
+              "RelativeDocumentMoniker": "01 C\u002B\u002B\u4E66\u5199helloWorld\\04 \u5E38\u91CF.cpp",
+              "ToolTip": "D:\\Desktop\\C\u002B\u002B_test\\01 C\u002B\u002B\u4E66\u5199helloWorld\\01 C\u002B\u002B\u4E66\u5199helloWorld\\04 \u5E38\u91CF.cpp",
+              "RelativeToolTip": "01 C\u002B\u002B\u4E66\u5199helloWorld\\04 \u5E38\u91CF.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T09:33:47.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
